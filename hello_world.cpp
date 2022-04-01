@@ -1,8 +1,8 @@
 #include <iostream>
-using namespace std;
+
 int main({
-cout << "Enter name";
-string name;
-cin >> name;
-cout << "Hello world";
+std::cout << "Enter name";//comments
+std::string name;
+std::cin >> name;
+std::cout << "Hello world";
 }
